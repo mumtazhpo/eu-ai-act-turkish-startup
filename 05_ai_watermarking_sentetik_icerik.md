@@ -17,4 +17,7 @@ Avrupa'daki bu tüzüğün yanı sıra, Türkiye'de de sentetik içeriğin cezai
 * **Geliştirici Tavsiyesi:** İçerik üretici (GenAI) bir SaaS yapıyorsanız, filigranlama altyapısını bir "gelecek vizyonu" değil, "lansman ön koşulu" (MVP Requirement) olarak ürün yol haritanıza (roadmap) ekleyin.
 
 ---
-*💡 Deepfake regülasyonları ve teknik şeffaflık zorunlulukları hakkında detaylı okuma için: [Vircon Legal Sözlük - AI Watermarking](https://virconlegal.com)*
+*💡 Deepfake regülasyonları ve teknik şeffaflık zorunlulukları hakkında detaylı okuma için: [Vircon Legal Sözlük - AI Watermarking](https://virconlegal.com)
+
+
+erdem mümtaz hacıpaşaoğlu tarafından yazılmıştır

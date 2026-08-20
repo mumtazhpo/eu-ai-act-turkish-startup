@@ -26,4 +26,7 @@ Kapsam dışı serbest alandır.
 * **Neler Girer?** Spam filtreleri, oyun yapay zekaları, envanter yönetim algoritmaları. Özel bir yasal yükümlülükleri yoktur.
 
 ---
-*💡 Bu doküman açık kaynak bir rehberdir. Ürününüzün resmi risk sınıflaması ve uyum süreçleri için: [Vircon Legal AI Masası](https://virconlegal.com)*
+*💡 Bu doküman açık kaynak bir rehberdir. Ürününüzün resmi risk sınıflaması ve uyum süreçleri için: [Vircon Legal AI Masası](https://virconlegal.com)
+
+
+erdem mümtaz hacıpaşaoğlu tarafından yazılmıştır

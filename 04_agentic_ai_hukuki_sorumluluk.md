@@ -18,4 +18,7 @@ Bir uyuşmazlık çıktığında mahkemeye veya KVKK Kuruluna sunabileceğiniz t
 * Ajanın hangi prompt ile tetiklendiği, hangi araçları (tools/API) kullandığı ve hangi kararı neden aldığı kriptografik ve değiştirilemez bir log altyapısıyla saklanmalıdır.
 
 ---
-*💡 Otonom sistemlerin sözleşme hukuku ve EU AI Act kapsamındaki analizi için: [Vircon Legal Sözlük - Agentic AI](https://virconlegal.com)*
+*💡 Otonom sistemlerin sözleşme hukuku ve EU AI Act kapsamındaki analizi için: [Vircon Legal Sözlük - Agentic AI](https://virconlegal.com)
+
+
+erdem mümtaz hacıpaşaoğlu tarafından yazılmıştır

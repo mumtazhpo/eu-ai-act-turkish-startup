@@ -25,10 +25,10 @@ EU AI Act tüm YZ sistemlerine eşit muamele yapmaz. Riske göre dört temel kad
 ## 📚 Dökümantasyon
 
 * [EU AI Act Türk Startup'ını Nasıl Bağlar - Ana Rehber](./README.md)
-* [🇹🇷 Geleceği Beklemeyin: KVKK Zaten Yapay Zekânızı Denetliyor](./02_kvkk_yapay_zeka_fiili_denetim.md)
-* [📊 Yapay Zeka Risk Sınıflandırması (Classification Memo): Startup'ınız Hangi Kategoride?](./03_ai_risk_siniflandirma_memosu.md)
-* [🤖 Yapay Zeka Ajanları (Agentic AI) Otonom İşlem Yaparsa Kim Sorumlu?](./04_agentic_ai_hukuki_sorumluluk.md)
-* [💧 Sentetik İçerik ve AI Watermarking (Yapay Zeka Filigranı) Yükümlülükleri](./05_ai_watermarking_sentetik_icerik.md)
+* [🇹🇷 Geleceği Beklemeyin: KVKK Zaten Yapay Zekânızı Denetliyor](./02_kvkk_yapay_zeka_fiili_denetim.md) — KVKK uyarıları ve otomatik kararlar
+* [📊 Yapay Zeka Risk Sınıflandırması (Classification Memo): Startup'ınız Hangi Kategoride?](./03_ai_risk_siniflandirma_memosu.md) — Risk sınıflandırma özeti
+* [🤖 Yapay Zeka Ajanları (Agentic AI) Otonom İşlem Yaparsa Kim Sorumlu?](./04_agentic_ai_hukuki_sorumluluk.md) — Ajanların eylem ve tazminat riski
+* [💧 Sentetik İçerik ve AI Watermarking (Yapay Zeka Filigranı) Yükümlülükleri](./05_ai_watermarking_sentetik_icerik.md) — Madde 50 ve teknik filigran önerileri
 
 ---
 

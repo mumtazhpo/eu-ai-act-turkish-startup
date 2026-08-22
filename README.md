@@ -1,5 +1,5 @@
 # Sunucunuz Türkiye'de, Müşteriniz Avrupa'da: EU AI Act Türk Startup'ını Nasıl Bağlar?
-
+README: EN summary, author block, CC BY 4.0 attribution section
 > **EN summary:** A practical guide for Türkiye-based AI startups on EU AI Act compliance — extraterritorial scope, risk tiers, and Article 50 transparency duties (in Turkish). Maintained by [Erdem Mümtaz Hacıpaşaoğlu](https://mumtazhacipasaoglu.com), Managing Partner at [Vircon Legal](https://virconlegal.com) ([Legal 500 profile](https://www.legal500.com/firms/237876-vircon-legal/c-turkey/lawyers/5649868-erdem-mumtaz-hacpasaoglu)).
 
 **TL;DR:** Şirketinizin nerede kurulu olduğu değil, yapay zeka (YZ) sisteminizin **çıktısının nerede kullanıldığı** önemlidir. Ürününüz AB pazarında kullanılıyorsa (müşteriniz[...]

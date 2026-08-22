@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "Bu rehberi kullanırsanız lütfen aşağıdaki gibi atıf verin."
+title: "EU AI Act ve Türk Startup'ları: Uyum Rehberi"
+authors:
+  - family-names: "Hacıpaşaoğlu"
+    given-names: "Erdem Mümtaz"
+    affiliation: "Vircon Legal"
+    website: "https://mumtazhacipasaoglu.com"
+repository-code: "https://github.com/mumtazhpo/eu-ai-act-turkish-startup"
+url: "https://virconlegal.com/ai-compliance-hub/"
+license: CC-BY-4.0
+date-released: "2026-08-20"

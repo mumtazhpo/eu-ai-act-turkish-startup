@@ -1,5 +1,7 @@
 # Sunucunuz Türkiye'de, Müşteriniz Avrupa'da: EU AI Act Türk Startup'ını Nasıl Bağlar?
 
+> **EN summary:** A practical guide for Türkiye-based AI startups on EU AI Act compliance — extraterritorial scope, risk tiers, and Article 50 transparency duties (in Turkish). Maintained by [Erdem Mümtaz Hacıpaşaoğlu](https://mumtazhacipasaoglu.com), Managing Partner at [Vircon Legal](https://virconlegal.com) ([Legal 500 profile](https://www.legal500.com/firms/237876-vircon-legal/c-turkey/lawyers/5649868-erdem-mumtaz-hacpasaoglu)).
+
 **TL;DR:** Şirketinizin nerede kurulu olduğu değil, yapay zeka (YZ) sisteminizin **çıktısının nerede kullanıldığı** önemlidir. Ürününüz AB pazarında kullanılıyorsa (müşteriniz[...]
 
 ## 🌍 Coğrafya Değil, Pazar Temelli Uygulama (Extraterritoriality)
@@ -33,3 +35,14 @@ EU AI Act tüm YZ sistemlerine eşit muamele yapmaz. Riske göre dört temel kad
 ---
 
 *💡 Bu dokümanların orijinali ve daha detaylı hukuki analiz için: [Vircon Legal](https://virconlegal.com/tr/)*
+
+
+## ✍️ Yazar
+
+**Erdem Mümtaz Hacıpaşaoğlu** — Vircon Legal kurucu ve yönetici ortağı; Legal 500 Recommended Lawyer (2025–2026); *Startup Hukuku* kitabının ortak yazarı.
+
+Kanonik profil: <https://mumtazhacipasaoglu.com> · Firma: <https://virconlegal.com> · [Legal 500](https://www.legal500.com/firms/237876-vircon-legal/c-turkey/lawyers/5649868-erdem-mumtaz-hacpasaoglu)
+
+## 📄 Lisans ve Atıf
+
+Bu içerik [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.tr) ile lisanslıdır — kaynak (Erdem Mümtaz Hacıpaşaoğlu / Vircon Legal) belirtilerek serbestçe kullanılabilir. Makine-okunur atıf formatı: `CITATION.cff`.
